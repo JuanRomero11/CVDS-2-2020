@@ -29,7 +29,7 @@ Tengo un plan quinquenal y es aprender los siguientes lenguajes de programacion:
 
 De primera python por su simplicidad, no mas para hacer un print solo se debe colocar:
 
-![print("Cualquier cosa")](https://www.google.com/search?rlz=1C1SQJL_enCO884CO884&biw=1920&bih=969&tbm=isch&sa=1&ei=qBAjXpbDJoXl5gKmu4iIAg&q=python+print+hola+mundo&oq=python+print+hola+mundo&gs_l=img.3..0i8i30.9952.12639..12869...0.0..0.158.1861.14j5......0....1..gws-wiz-img.......0i67j0j0i30j0i19j0i8i30i19j0i24.-_66T02NZxM&ved=0ahUKEwiWt8TnqI3nAhWFslkKHaYdAiEQ4dUDCAc&uact=5#imgrc=PbdBwRwZYTMAXM:)
+![print("Cualquier cosa")](http://luengocabanillas.com/wp-content/uploads/2010/11/python-shell-3-2-hello-world.png)
 
 
 
