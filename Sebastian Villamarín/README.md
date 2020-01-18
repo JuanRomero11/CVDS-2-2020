@@ -21,5 +21,7 @@ Dejando de un lado la parte académica, me gusta mucho jugar futbol, inclusive a
 
 
 
-![Image](https://pbs.twimg.com/profile_images/1159578465773006849/QRpStUAj_400x400.png)
+![Image](https://pbs.twimg.com/profile_images/1159578465773006849/QRpStUAj_400x400.png).
+
+
 Tambien me gusto mucho compartir 
