@@ -7,6 +7,12 @@ Soy estudiante de [**_Ingeniería de Sistemas_**](https://www.escuelaing.edu.co/
 Las líneas énfasis del Programa son:
 - Ingeniería de software
 - Infraestructura computacional
+- Sistemas y organizaciones
+-  Fundamentos de computación
+- Ingeniería en inteligencia artificial
+- Analytics (compartido con los programas de Matemáticas e Ingeniería Industrial)
+- Emprendimiento (transversal)
+- Gerencia de proyectos (transversal)
 
 ### Vida Personal
-Considero que una de las cosas mas importantes es disfrutar el día a día ya sea en la universidad o por afuera, me gusta el futbol,la cerveza y viajar.
+*"Considero que una de las cosas mas importantes es disfrutar el día a día"*.  
