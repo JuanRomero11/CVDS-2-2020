@@ -1,10 +1,15 @@
-# Informacion basica
+## Informacion personal
 
-Mi nombre completo es **Juan Sebastian Nieto Molina**.\n
+Mi nombre completo es **Juan Sebastian Nieto Molina**.
 
 Naci el _13 de septiembre de 1997_.
 
 Me gustaria conocer el mundo y visitar sitios parecidos a los siguientes [lugares][visita1]:
+
+De echo tengo un listado.
+
+### Sitios que debo conocer
+
 
 
 
