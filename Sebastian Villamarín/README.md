@@ -24,4 +24,4 @@ Dejando de un lado la parte académica, me gusta mucho jugar futbol, inclusive a
 ![Image](https://pbs.twimg.com/profile_images/1159578465773006849/QRpStUAj_400x400.png).
 
 
-Tambien me gusto mucho compartir 
+Tambien me gusto mucho compartir con amigos o mi familia, ya sean viajes que considero que las mejores experiencias surgen de estos o ya sea de momentos pequeños y considero que todo buen momento debe ir acompañado de una cerveza fria, donde ojala pueda ser negra.
