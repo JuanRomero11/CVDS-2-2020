@@ -15,4 +15,6 @@ Las líneas énfasis del Programa son:
 - Gerencia de proyectos (transversal)
 
 ### Vida Personal
-*"Considero que una de las cosas mas importantes es disfrutar el día a día"*.  
+*"Considero que una de las cosas mas importantes es disfrutar el día a día"*. 
+
+Dejando de un lado la parte académica, me gusta mucho jugar futbol, inclusive años atras entrene en las inferiores del Santa Fe, pero realmente soy hincha de Deportivo Cali ![] (https://pbs.twimg.com/profile_images/1159578465773006849/QRpStUAj_400x400.png)
