@@ -2,7 +2,6 @@
 __Brayan Burgos Delgado :)__
 
 - __[instagram](https://www.instagram.com/sf_burgos/)__ - instagram
-  resize in browser.
 - __[facebook](https://www.facebook.com/brayansteven.burgosdelgado/)__ - facebook
 
 Espero que te guste mi perfil!
