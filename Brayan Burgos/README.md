@@ -1,81 +1,33 @@
 ---
 __Brayan Burgos Delgado :)__
 
-- __[instagram](https://www.instagram.com/sf_burgos/)__ - instagram
-- __[facebook](https://www.facebook.com/brayansteven.burgosdelgado/)__ - facebook
-
-Espero que te guste mi perfil!
-
+- __[instagram](https://www.instagram.com/sf_burgos/)__ 
+- __[facebook](https://www.facebook.com/brayansteven.burgosdelgado/)__ 
 ---
 
 # informacion Personal -)
+ Nacimiento: 17 Noviembre 1998
+ lugar de nacimiento: Bogota- Colombia 
  
-
-
-## Horizontal Rules
-
-___
-
----
-
-***
-
-
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
 ## cosas que me gustan
 
 + Fubol
-+ musica
-+ brasil
-+ beber
++ Musica
++ Series
++ videoJuegos
+
 
 ## Code
 
-Inline `code`
-
-Indented code
-
     // codigo de la vida
-    futbol = felicidad
+    Futbol = felicidad
  
-## Tables
 
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi6oI_R2JLnAhXlx1kKHfAWChsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fcbarcelona.es%2Fes%2Fficha%2F708165%2Fasi-sera-el-futuro-camp-nou&psig=AOvVaw2mIndDV1aMJpaZOdjD53x2&ust=1579627349881022)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
