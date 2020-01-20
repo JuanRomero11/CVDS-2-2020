@@ -27,17 +27,7 @@ __Brayan Burgos Delgado :)__
 
 ## Images
 
-![Minion](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi6oI_R2JLnAhXlx1kKHfAWChsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fcbarcelona.es%2Fes%2Fficha%2F708165%2Fasi-sera-el-futuro-camp-nou&psig=AOvVaw2mIndDV1aMJpaZOdjD53x2&ust=1579627349881022)
-![Stormtroopocat](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwi6oI_R2JLnAhXlx1kKHfAWChsQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.fcbarcelona.es%2Fes%2Fficha%2F708165%2Fasi-sera-el-futuro-camp-nou&psig=AOvVaw2mIndDV1aMJpaZOdjD53x2&ust=1579627349881022 "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
+![Kitten](/media/2018/08/kitten.jpg?thumbnail)
 
 ## Plugins
 
