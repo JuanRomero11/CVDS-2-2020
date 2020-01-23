@@ -6,8 +6,8 @@ __Brayan Burgos Delgado__
 ---
 
 # informacion Personal
- Nacimiento: 17 Noviembre 1998.
- lugar de nacimiento: Bogota- Colombia.
+ Nacimiento: 17 Noviembre 1998./n
+ Lugar de nacimiento: Bogota- Colombia.
  
 ## cosas que me gustan
 
