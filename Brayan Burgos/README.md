@@ -5,11 +5,11 @@ __Brayan Burgos Delgado__
 - __[facebook](https://www.facebook.com/brayansteven.burgosdelgado/)__ 
 ---
 
-# informacion Personal
+# Informacion Personal
  1. Nacimiento: 17 Noviembre 1998.
  2. Lugar de nacimiento: Bogota- Colombia.
  
-## cosas que me gustan
+## Cosas que me gustan
 
 + Fubol
 + Musica
@@ -17,7 +17,7 @@ __Brayan Burgos Delgado__
 + videoJuegos
 
 
-## Code
+## Codigo
 
     // codigo de la vida
     Futbol = felicidad
