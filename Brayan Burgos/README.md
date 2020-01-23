@@ -25,5 +25,5 @@ __Brayan Burgos Delgado__
 
 
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![Minion](https://s6.eestatic.com/2017/02/01/actualidad/Actualidad_190495208_129761987_1024x576.jpg)
+
