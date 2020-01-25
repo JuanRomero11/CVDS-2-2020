@@ -11,3 +11,6 @@ Juan Sebastian Nieto Molina carne: 2142787
 Juan Guillermo Romero carne: 2153016
 
 ![](https://github.com/JuanRomero11/CVDS-2-2020/blob/master/Imagenes/pag1.jpg)
+![] (https://github.com/JuanRomero11/CVDS-2-2020/blob/master/Imagenes/pag2.jpg)
+
+Brayan Steven Burgos Delegado carne:2141666
